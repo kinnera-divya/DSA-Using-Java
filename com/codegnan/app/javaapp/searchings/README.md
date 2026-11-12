@@ -9,3 +9,7 @@ Programs:
 4. Binary Search in String
 5. First Even Element
 6. Find Name in Array
+7. First Occurance
+8. Last Occurance
+9. Occurance of Target
+10. Insert Position Lower
